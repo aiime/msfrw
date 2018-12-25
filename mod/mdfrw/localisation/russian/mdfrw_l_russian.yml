@@ -1,0 +1,14 @@
+﻿l_russian:
+
+mdfrw_ringworld_district_mining_uncapped:0 "Горнодобывающий район мир-кольца"
+mdfrw_ringworld_district_mining_uncapped_plural:0 "Горнодобывающие районы мир-кольца"
+mdfrw_ringworld_district_mining_uncapped_desc:0 "Этот район специализирован на извлечении остатков полезных ископаемых из земли мир-кольца."
+
+mdfrw_ringworld_col_mining:0 "Добывающий мир"
+mdfrw_ringworld_col_mining_desc:0 "Поверхность этого сектора в основном покрыта рудниками, карьерами, скважинами и тяжелой техникой."
+
+mdfrw_ringworld_col_rural:0 "Деревенский мир"
+mdfrw_ringworld_col_rural_desc:0 "Характер производства на этом секторе устраняет необходимость в крупных городских центрах."
+
+mdfrw_ringworld_col_rural_gestalt:0 "Периферийный мир"
+mdfrw_ringworld_col_rural_gestalt_desc:0 "Этот сектор - малонаселенный мир на периферии коллектива."
