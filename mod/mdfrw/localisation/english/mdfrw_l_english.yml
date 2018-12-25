@@ -1,0 +1,14 @@
+﻿l_english:
+
+mdfrw_ringworld_district_mining_uncapped:0 "Ringworld Mining District"
+mdfrw_ringworld_district_mining_uncapped_plural:0 "Ringworld Mining Districts"
+mdfrw_ringworld_district_mining_uncapped_desc:0 "This district specialized in the extraction of mineral residues out of the ringworld ground."
+
+mdfrw_ringworld_col_mining:0 "Mining World"
+mdfrw_ringworld_col_mining_desc:0 "Strip mines, quarries, boreholes, and heavy machinery dominate this section's surface."
+
+mdfrw_ringworld_col_rural:0 "Rural World"
+mdfrw_ringworld_col_rural_desc:0 "The nature of this section's production dispenses with the need for major urban centers."
+
+mdfrw_ringworld_col_rural_gestalt:0 "Fringe Planet"
+mdfrw_ringworld_col_rural_gestalt_desc:0 "This section is a sparsely populated world on the fringes of the collective."
