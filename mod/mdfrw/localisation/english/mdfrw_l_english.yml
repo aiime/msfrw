@@ -10,5 +10,17 @@ mdfrw_ringworld_col_mining_desc:0 "Strip mines, quarries, boreholes, and heavy m
 mdfrw_ringworld_col_rural:0 "Rural World"
 mdfrw_ringworld_col_rural_desc:0 "The nature of this section's production dispenses with the need for major urban centers."
 
-mdfrw_ringworld_col_rural_gestalt:0 "Fringe Planet"
+mdfrw_ringworld_col_rural_gestalt:0 "Fringe World"
 mdfrw_ringworld_col_rural_gestalt_desc:0 "This section is a sparsely populated world on the fringes of the collective."
+
+tech_mdfrw_extensive_mining:0 "Extensive Mining"
+tech_mdfrw_extensive_mining_desc:0 "Technologies and methods to organize work of a huge network of decentralized mining stations covering vast areas."
+
+decision_mdfrw_wide_mining_strategy:0 "Wide Mining Strategy"
+decision_mdfrw_wide_mining_strategy_desc:0 "A number of infrastructure projects that will allow us to cover large areas of this section by decentralized mining stations."
+
+decision_mdfrw_wide_mining_strategy_effects_short:0 "Adds §YMiner§! Job and §YHousing§! for each §YMining District§!"
+decision_mdfrw_wide_mining_strategy_effects_custom:0 "§YMining Districts§! receive:\n    £mod_job_miner_add£ Miner Jobs: §G+1§!\n    £housing£ Housing: §G+1§!"
+
+mdfrw_wide_mining_infrastructure_modifier:0 "Wide Mining Infrastructure"
+mdfrw_wide_mining_infrastructure_modifier_desc:0 "This section has the infrastructure which allows for efficient minerals mining."

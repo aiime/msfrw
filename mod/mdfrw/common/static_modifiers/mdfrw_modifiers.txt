@@ -1,0 +1,4 @@
+mdfrw_wide_mining_infrastructure_modifier = {
+	icon = "gfx/interface/icons/planet_modifiers/mdfrw_wide_strategy_modifier.dds"
+	icon_frame = 1
+}

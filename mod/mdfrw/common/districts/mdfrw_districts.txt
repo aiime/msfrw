@@ -27,13 +27,32 @@ mdfrw_ringworld_district_mining_uncapped = {
 			minerals = 300
 		}
 		upkeep = {
-			energy = 1
+			trigger = {
+					NOT = { has_modifier = mdfrw_wide_mining_infrastructure_modifier }
+			}
+			energy = 1	
+		}
+		upkeep = {
+			trigger = {
+					has_modifier = mdfrw_wide_mining_infrastructure_modifier
+			}
+			energy = 2
 		}
 	}
 	
 	planet_modifier = {
 		planet_housing_add = 1
 	}
+	
+	triggered_planet_modifier = {
+		potential = {
+			has_modifier = mdfrw_wide_mining_infrastructure_modifier
+		}
+		modifier = {
+			planet_housing_add = 1
+			job_miner_add = 1
+		}
+	}		
 	
 	triggered_planet_modifier = {
 		potential = {
