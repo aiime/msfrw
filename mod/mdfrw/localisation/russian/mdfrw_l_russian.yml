@@ -12,3 +12,15 @@ mdfrw_ringworld_col_rural_desc:0 "Характер производства на
 
 mdfrw_ringworld_col_rural_gestalt:0 "Периферийный мир"
 mdfrw_ringworld_col_rural_gestalt_desc:0 "Этот сектор - малонаселенный мир на периферии коллектива."
+
+tech_mdfrw_extensive_mining:0 "Экстенсивные методы добычи"
+tech_mdfrw_extensive_mining_desc:0 "Технологии и методы добычи, которые позволят нам организовать работу огромной сети децентрализованных добывающих станций, покрывающих колоссальные пространства."
+
+decision_mdfrw_wide_mining_strategy:0 "Стратегия широкой добычи"
+decision_mdfrw_wide_mining_strategy_desc:0 "Ряд инфраструктурных проектов, которые позволят нам покрыть огромные пространства этой секции децентрализованными добывающими станциями."
+
+decision_mdfrw_wide_mining_strategy_effects_short:0 "Добавляет деятельность в категории §YШахтёр§! и §YЖильё§! для каждого §YГорнодобывающего района мир-кольца§!"
+decision_mdfrw_wide_mining_strategy_effects_custom:0 "§YГорнодобывающие районы мир-кольца§! получают:\n    £mod_job_miner_add£ Шахтёрская деятельность: §G+1§!\n    £housing£ Жильё: §G+1§!"
+
+mdfrw_wide_mining_infrastructure_modifier:0 "Инфраструтура широкой добычи"
+mdfrw_wide_mining_infrastructure_modifier_desc:0 "Эта секция имеет инфраструктуру, которая позволяет вести эффективную добычу полезных ископаемых."
