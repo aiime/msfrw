@@ -28,6 +28,7 @@ decision_mdfrw_wide_mining_strategy = {
 			add_modifier = {
 				modifier = mdfrw_wide_mining_infrastructure_modifier
 				days = -1
+			}
 		}
 	}
 	
