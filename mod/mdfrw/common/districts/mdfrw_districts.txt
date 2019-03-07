@@ -6,19 +6,17 @@ mdfrw_ringworld_district_mining_uncapped = {
 	
 	show_on_uncolonized = {
 		is_planet_class = pc_ringworld_habitable
+		NOT = { has_planet_flag = akrh_ringworld }
 	}
 	
 	potential = {
 		is_planet_class = pc_ringworld_habitable
+		NOT = { has_planet_flag = akrh_ringworld }
 	}
 	
 	allow = {
 		NOT = { has_modifier = resort_colony }
-	}	
-	
-	conversion_ratio = 1
-	convert_to = {
-		district_mining
+		NOT = { has_planet_flag = akrh_ringworld }
 	}
 	
 	resources = {
