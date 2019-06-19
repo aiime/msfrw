@@ -19,8 +19,8 @@ tech_mdfrw_extensive_mining_desc:0 "Technologies and methods to organize work of
 decision_mdfrw_wide_mining_strategy:0 "Wide Mining Strategy"
 decision_mdfrw_wide_mining_strategy_desc:0 "A number of preparatory infrastructure projects that will allow us to start wide mining exploitation on the vast areas of this section."
 
-decision_mdfrw_wide_mining_strategy_effects_short:0 "Adds §YMiner§! Job and §YHousing§! for each §YRingworld Mining District§!"
-decision_mdfrw_wide_mining_strategy_effects_custom:0 "§YRingworld Mining Districts§! receive:\n    £mod_job_miner_add£ Miner Jobs: §G+10§!\n    £housing£ Housing: §G+10§!"
+decision_mdfrw_wide_mining_strategy_effects_short:0 "Adds §YMiner§! Jobs and §YHousing§! for each §YMining Segment§!"
+decision_mdfrw_wide_mining_strategy_effects_custom:0 "§YMining Segments§! receive:\n    £mod_job_miner_add£ Miner Jobs: §G+10§!\n    £housing£ Housing: §G+10§!"
 
 mdfrw_wide_mining_infrastructure_modifier:0 "Wide Mining Infrastructure"
 mdfrw_wide_mining_infrastructure_modifier_desc:0 "This section has the infrastructure which allows for efficient minerals mining."
