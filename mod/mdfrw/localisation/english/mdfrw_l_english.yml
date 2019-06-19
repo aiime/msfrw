@@ -1,10 +1,10 @@
 ﻿l_english:
 
-mdfrw_ringworld_district_mining_uncapped:0 "Ringworld Mining District"
-mdfrw_ringworld_district_mining_uncapped_plural:0 "Ringworld Mining Districts"
-mdfrw_ringworld_district_mining_uncapped_desc:0 "This district specialized in the extraction of mineral residues out of the ringworld ground."
+mdfrw_ringworld_district_mining_uncapped:0 "Mining Segment"
+mdfrw_ringworld_district_mining_uncapped_plural:0 "Mining Segments"
+mdfrw_ringworld_district_mining_uncapped_desc:0 "This segment specialized in the extraction of mineral residues out of the ringworld ground."
 
-mdfrw_ringworld_col_mining:0 "Mining World"
+mdfrw_ringworld_col_mining:0 "Mining Ring World"
 mdfrw_ringworld_col_mining_desc:0 "Strip mines, quarries, boreholes, and heavy machinery dominate this section's surface."
 
 mdfrw_ringworld_col_rural:0 "Rural World"
@@ -20,7 +20,7 @@ decision_mdfrw_wide_mining_strategy:0 "Wide Mining Strategy"
 decision_mdfrw_wide_mining_strategy_desc:0 "A number of preparatory infrastructure projects that will allow us to start wide mining exploitation on the vast areas of this section."
 
 decision_mdfrw_wide_mining_strategy_effects_short:0 "Adds §YMiner§! Job and §YHousing§! for each §YRingworld Mining District§!"
-decision_mdfrw_wide_mining_strategy_effects_custom:0 "§YRingworld Mining Districts§! receive:\n    £mod_job_miner_add£ Miner Jobs: §G+1§!\n    £housing£ Housing: §G+1§!"
+decision_mdfrw_wide_mining_strategy_effects_custom:0 "§YRingworld Mining Districts§! receive:\n    £mod_job_miner_add£ Miner Jobs: §G+10§!\n    £housing£ Housing: §G+10§!"
 
 mdfrw_wide_mining_infrastructure_modifier:0 "Wide Mining Infrastructure"
 mdfrw_wide_mining_infrastructure_modifier_desc:0 "This section has the infrastructure which allows for efficient minerals mining."
