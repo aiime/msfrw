@@ -1,5 +1,5 @@
-# Mining District for Ringworld (MDFRW)
+# Mining Segment for Ringworld (MSFRW)
 
-A mod for Stellaris that adds mining districts for ringworlds.
+A mod for Stellaris that adds a mining segment for ringworlds.
 
-The Ringworld mining district gives +1 housing and +1 miner job and can be upgraded to the +2/+2 version.
+The mining segment gives +10 housing and +10 miner jobs and can be upgraded to the +20/+20 version.
